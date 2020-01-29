@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36688564-872F-4066-9170-DB2A222F5BAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EDnevnikMapiranje</RootNamespace>
+    <AssemblyName>EDnevnikMapiranje</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.1.2\lib\net461\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.4\lib\net461\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=5.2.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.5.2.5\lib\net461\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.18.3, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.18.6.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.2.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Kontrole\DodajUcenikuRoditeljOdeljenje.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\DodajUcenikuRoditeljOdeljenje.Designer.cs">
+      <DependentUpon>DodajUcenikuRoditeljOdeljenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDnevnik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDnevnik.Designer.cs">
+      <DependentUpon>CtrlDnevnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlNastavnikRoditelj.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlNastavnikRoditelj.Designer.cs">
+      <DependentUpon>CtrlNastavnikRoditelj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiNastavnikPredmet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiNastavnikPredmet.Designer.cs">
+      <DependentUpon>CtrlBrisiNastavnikPredmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAdministrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAdministrator.Designer.cs">
+      <DependentUpon>CtrlAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiDrziPredmetOdeljenju.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiDrziPredmetOdeljenju.Designer.cs">
+      <DependentUpon>CtrlBrisiDrziPredmetOdeljenju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiImaOcenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiImaOcenu.Designer.cs">
+      <DependentUpon>CtrlBrisiImaOcenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiJeRazredni.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiJeRazredni.Designer.cs">
+      <DependentUpon>CtrlBrisiJeRazredni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiKorisnik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiKorisnik.Designer.cs">
+      <DependentUpon>CtrlBrisiKorisnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiNijeUcenik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiNijeUcenik.Designer.cs">
+      <DependentUpon>CtrlBrisiNijeUcenik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiObavljaFunkciju.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiObavljaFunkciju.Designer.cs">
+      <DependentUpon>CtrlBrisiObavljaFunkciju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiOcenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiOcenu.Designer.cs">
+      <DependentUpon>CtrlBrisiOcenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiPredmet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiPredmet.Designer.cs">
+      <DependentUpon>CtrlBrisiPredmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajAdministratora.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajAdministratora.Designer.cs">
+      <DependentUpon>CtrlAzurirajAdministratora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajFunckiju.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajFunckiju.Designer.cs">
+      <DependentUpon>CtrlAzurirajFunckiju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajKorisnika.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajKorisnika.Designer.cs">
+      <DependentUpon>CtrlAzurirajKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajNastavnika.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajNastavnika.Designer.cs">
+      <DependentUpon>CtrlAzurirajNastavnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajOcenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajOcenu.Designer.cs">
+      <DependentUpon>CtrlAzurirajOcenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajOdeljenje.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajOdeljenje.Designer.cs">
+      <DependentUpon>CtrlAzurirajOdeljenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajPredmet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajPredmet.Designer.cs">
+      <DependentUpon>CtrlAzurirajPredmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajRoditelja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajRoditelja.Designer.cs">
+      <DependentUpon>CtrlAzurirajRoditelja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajUcenika.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlAzurirajUcenika.Designer.cs">
+      <DependentUpon>CtrlAzurirajUcenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiFunkciju.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiFunkciju.Designer.cs">
+      <DependentUpon>CtrlBrisiFunkciju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiOdeljenje.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiOdeljenje.Designer.cs">
+      <DependentUpon>CtrlBrisiOdeljenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiUcenik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlBrisiUcenik.Designer.cs">
+      <DependentUpon>CtrlBrisiUcenik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajAdministratora.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajAdministratora.Designer.cs">
+      <DependentUpon>CtrlDodajAdministratora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajFunkciju.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajFunkciju.Designer.cs">
+      <DependentUpon>CtrlDodajFunkciju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajIImaOcenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajIImaOcenu.Designer.cs">
+      <DependentUpon>CtrlDodajIImaOcenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajJeRazredni.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajJeRazredni.Designer.cs">
+      <DependentUpon>CtrlDodajJeRazredni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajKorisnika.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajKorisnika.Designer.cs">
+      <DependentUpon>CtrlDodajKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajNastavnika.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajNastavnika.Designer.cs">
+      <DependentUpon>CtrlDodajNastavnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajNastavnikPredmet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajNastavnikPredmet.Designer.cs">
+      <DependentUpon>CtrlDodajNastavnikPredmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajOcenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajOcenu.Designer.cs">
+      <DependentUpon>CtrlDodajOcenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajOdeljenje.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajOdeljenje.Designer.cs">
+      <DependentUpon>CtrlDodajOdeljenje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajPredmet.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajPredmet.Designer.cs">
+      <DependentUpon>CtrlDodajPredmet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajRoditelja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajRoditelja.Designer.cs">
+      <DependentUpon>CtrlDodajRoditelja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajUcenika.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDodajUcenika.Designer.cs">
+      <DependentUpon>CtrlDodajUcenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDrziPredmetOdeljenju.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlDrziPredmetOdeljenju.Designer.cs">
+      <DependentUpon>CtrlDrziPredmetOdeljenju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlLogin.Designer.cs">
+      <DependentUpon>CtrlLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlNastavnik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlNastavnik.Designer.cs">
+      <DependentUpon>CtrlNastavnik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlNastavnikInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlNastavnikInfo.Designer.cs">
+      <DependentUpon>CtrlNastavnikInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlObavljaFunkciju.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlObavljaFunkciju.Designer.cs">
+      <DependentUpon>CtrlObavljaFunkciju.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlRasporedCasova.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlRasporedCasova.Designer.cs">
+      <DependentUpon>CtrlRasporedCasova.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlRazredniStaresina.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlRazredniStaresina.Designer.cs">
+      <DependentUpon>CtrlRazredniStaresina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlRoditelj.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlRoditelj.Designer.cs">
+      <DependentUpon>CtrlRoditelj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\CtrlUcenik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Kontrole\CtrlUcenik.Designer.cs">
+      <DependentUpon>CtrlUcenik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataLayer.cs" />
+    <Compile Include="Entiteti\BrojcanaOcena.cs" />
+    <Compile Include="Entiteti\DrziPredmetOdeljenju.cs" />
+    <Compile Include="Entiteti\Funkcija.cs" />
+    <Compile Include="Entiteti\ImaOcenu.cs" />
+    <Compile Include="Entiteti\JeRazredni.cs" />
+    <Compile Include="Entiteti\JeRazredniId.cs" />
+    <Compile Include="Entiteti\Korisnik.cs" />
+    <Compile Include="Entiteti\NijeUcenik.cs" />
+    <Compile Include="Entiteti\ObavljaFunkciju.cs" />
+    <Compile Include="Entiteti\ObavljaFunkcijuId.cs" />
+    <Compile Include="Entiteti\Ocena.cs" />
+    <Compile Include="Entiteti\Odeljenje.cs" />
+    <Compile Include="Entiteti\OpisnaOcena.cs" />
+    <Compile Include="Entiteti\Predaje.cs" />
+    <Compile Include="Entiteti\PredajeID.cs" />
+    <Compile Include="Entiteti\Predmet.cs" />
+    <Compile Include="Entiteti\PredmetIzborni.cs" />
+    <Compile Include="Entiteti\PredmetObavezni.cs" />
+    <Compile Include="Entiteti\Ucenik.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kontrole\DialogOcene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kontrole\DialogOcene.Designer.cs">
+      <DependentUpon>DialogOcene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mapiranja\BrojcanaOcenaMapiranja.cs" />
+    <Compile Include="Mapiranja\DrziPredmetOdeljenjuMapiranja.cs" />
+    <Compile Include="Mapiranja\FunkcijaMapiranja.cs" />
+    <Compile Include="Mapiranja\ImaOcenuMapiranja.cs" />
+    <Compile Include="Mapiranja\JeRazredniMapiranja.cs" />
+    <Compile Include="Mapiranja\KorisnikMapiranja.cs" />
+    <Compile Include="Mapiranja\NIjeUcenikMapiranja.cs" />
+    <Compile Include="Mapiranja\ObavljaFunkcijuMapiranja.cs" />
+    <Compile Include="Mapiranja\OcenaMapiranja.cs" />
+    <Compile Include="Mapiranja\OdeljenjeMapiranja.cs" />
+    <Compile Include="Mapiranja\OpisnaOcenaMapiranja.cs" />
+    <Compile Include="Mapiranja\PredajeMapiranje.cs" />
+    <Compile Include="Mapiranja\PredmetIzborniMapiranja.cs" />
+    <Compile Include="Mapiranja\PredmetMapiranja.cs" />
+    <Compile Include="Mapiranja\PredmetObavezniMapiranja.cs" />
+    <Compile Include="Mapiranja\UcenikMapiranja.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Kontrole\DodajUcenikuRoditeljOdeljenje.resx">
+      <DependentUpon>DodajUcenikuRoditeljOdeljenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDnevnik.resx">
+      <DependentUpon>CtrlDnevnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiNastavnikPredmet.resx">
+      <DependentUpon>CtrlBrisiNastavnikPredmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAdministrator.resx">
+      <DependentUpon>CtrlAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajAdministratora.resx">
+      <DependentUpon>CtrlAzurirajAdministratora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajFunckiju.resx">
+      <DependentUpon>CtrlAzurirajFunckiju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajKorisnika.resx">
+      <DependentUpon>CtrlAzurirajKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajNastavnika.resx">
+      <DependentUpon>CtrlAzurirajNastavnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajOcenu.resx">
+      <DependentUpon>CtrlAzurirajOcenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajOdeljenje.resx">
+      <DependentUpon>CtrlAzurirajOdeljenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajPredmet.resx">
+      <DependentUpon>CtrlAzurirajPredmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajRoditelja.resx">
+      <DependentUpon>CtrlAzurirajRoditelja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlAzurirajUcenika.resx">
+      <DependentUpon>CtrlAzurirajUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiDrziPredmetOdeljenju.resx">
+      <DependentUpon>CtrlBrisiDrziPredmetOdeljenju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiFunkciju.resx">
+      <DependentUpon>CtrlBrisiFunkciju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiImaOcenu.resx">
+      <DependentUpon>CtrlBrisiImaOcenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiJeRazredni.resx">
+      <DependentUpon>CtrlBrisiJeRazredni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiKorisnik.resx">
+      <DependentUpon>CtrlBrisiKorisnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiNijeUcenik.resx">
+      <DependentUpon>CtrlBrisiNijeUcenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiObavljaFunkciju.resx">
+      <DependentUpon>CtrlBrisiObavljaFunkciju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiOcenu.resx">
+      <DependentUpon>CtrlBrisiOcenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiOdeljenje.resx">
+      <DependentUpon>CtrlBrisiOdeljenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiPredmet.resx">
+      <DependentUpon>CtrlBrisiPredmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlBrisiUcenik.resx">
+      <DependentUpon>CtrlBrisiUcenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajAdministratora.resx">
+      <DependentUpon>CtrlDodajAdministratora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajFunkciju.resx">
+      <DependentUpon>CtrlDodajFunkciju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajIImaOcenu.resx">
+      <DependentUpon>CtrlDodajIImaOcenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajJeRazredni.resx">
+      <DependentUpon>CtrlDodajJeRazredni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajKorisnika.resx">
+      <DependentUpon>CtrlDodajKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajNastavnika.resx">
+      <DependentUpon>CtrlDodajNastavnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajNastavnikPredmet.resx">
+      <DependentUpon>CtrlDodajNastavnikPredmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajOcenu.resx">
+      <DependentUpon>CtrlDodajOcenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajOdeljenje.resx">
+      <DependentUpon>CtrlDodajOdeljenje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajPredmet.resx">
+      <DependentUpon>CtrlDodajPredmet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajRoditelja.resx">
+      <DependentUpon>CtrlDodajRoditelja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDodajUcenika.resx">
+      <DependentUpon>CtrlDodajUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlDrziPredmetOdeljenju.resx">
+      <DependentUpon>CtrlDrziPredmetOdeljenju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlLogin.resx">
+      <DependentUpon>CtrlLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlNastavnik.resx">
+      <DependentUpon>CtrlNastavnik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlNastavnikInfo.resx">
+      <DependentUpon>CtrlNastavnikInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlNastavnikRoditelj.resx">
+      <DependentUpon>CtrlNastavnikRoditelj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlObavljaFunkciju.resx">
+      <DependentUpon>CtrlObavljaFunkciju.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlRasporedCasova.resx">
+      <DependentUpon>CtrlRasporedCasova.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlRazredniStaresina.resx">
+      <DependentUpon>CtrlRazredniStaresina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlRoditelj.resx">
+      <DependentUpon>CtrlRoditelj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\CtrlUcenik.resx">
+      <DependentUpon>CtrlUcenik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kontrole\DialogOcene.resx">
+      <DependentUpon>DialogOcene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackArrow.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

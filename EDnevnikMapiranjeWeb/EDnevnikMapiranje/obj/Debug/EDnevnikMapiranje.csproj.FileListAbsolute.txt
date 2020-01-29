@@ -1,0 +1,597 @@
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojResolveAssemblyReference.cache
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.Cache
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+c:\users\work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Work\documents\visual studio 2013\Projects\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojResolveAssemblyReference.cache
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.Cache
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+C:\Users\Work\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+F:\EDnevnikMapiranje\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+F:\EDnevnikMapiranje\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajFunckiju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajFunckiju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOdeljenje.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajKorisnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajUcenika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajAdministratora.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajRoditelja.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajNastavnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOdeljenje.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiKorisnik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiUcenik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNijeUcenik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.BrisiNastavnikPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiObavljaFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiJeRazredni.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiImaOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiDrziPredmetOdeljenju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.BrisiNastavnikPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajAdministratora.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajKorisnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajNastavnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajRoditelja.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajUcenika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiDrziPredmetOdeljenju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiImaOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiJeRazredni.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiKorisnik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNijeUcenik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiObavljaFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeLazar\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiUcenik.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajAdministratora.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajFunckiju.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajKorisnika.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajNastavnika.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOcenu.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOdeljenje.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajPredmet.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajRoditelja.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajUcenika.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiDrziPredmetOdeljenju.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiFunkciju.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiImaOcenu.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiJeRazredni.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiKorisnik.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNijeUcenik.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiObavljaFunkciju.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOcenu.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOdeljenje.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiPredmet.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiUcenik.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlLogin.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlUcenik.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAdministrator.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNastavnikPredmet.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlRoditelj.resources
+D:\Elektrnoski\Elfak 6\Sistemi baze podataka\Projekat\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNastavnikPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAdministrator.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajAdministratora.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajFunckiju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajKorisnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajNastavnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOdeljenje.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajRoditelja.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajUcenika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiDrziPredmetOdeljenju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiImaOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiJeRazredni.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiKorisnik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNijeUcenik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiObavljaFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOdeljenje.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiUcenik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlLogin.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlRoditelj.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlUcenik.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnikInfo.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlRazredniStaresina.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Kontrole.CtrlRasporedCasova.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Kontrole.DialogOcene.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe.config
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.exe
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDnevnik.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form2.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNastavnikPredmet.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAdministrator.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajAdministratora.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajFunckiju.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajKorisnika.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajNastavnika.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOcenu.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOdeljenje.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajPredmet.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajRoditelja.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajUcenika.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiDrziPredmetOdeljenju.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiFunkciju.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiImaOcenu.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiJeRazredni.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiKorisnik.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNijeUcenik.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiObavljaFunkciju.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOcenu.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOdeljenje.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiPredmet.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiUcenik.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlLogin.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnik.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnikInfo.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnikRoditelj.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Kontrole.CtrlRasporedCasova.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlRazredniStaresina.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlRoditelj.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlUcenik.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Kontrole.DialogOcene.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.exe
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+D:\nikola\III\Semestar 6\Sistemi baza podataka\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.DodajUcenikuRoditeljOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.DodajUcenikuRoditeljOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDnevnik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form2.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNastavnikPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAdministrator.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajAdministratora.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajFunckiju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajKorisnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajNastavnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajRoditelja.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlAzurirajUcenika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiDrziPredmetOdeljenju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiImaOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiJeRazredni.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiKorisnik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiNijeUcenik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiObavljaFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlBrisiUcenik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajAdministratora.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajIImaOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajJeRazredni.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajKorisnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajNastavnikPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOcenu.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajOdeljenje.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajPredmet.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajRoditelja.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDodajUcenika.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlDrziPredmetOdeljenju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlLogin.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnikInfo.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlNastavnikRoditelj.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlObavljaFunkciju.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Kontrole.CtrlRasporedCasova.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlRazredniStaresina.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlRoditelj.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.CtrlUcenik.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Form1.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Kontrole.DialogOcene.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.dll.config
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.dll
+C:\Users\Aca\Desktop\EDnevnikMapiranjeFinal\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.dll.config
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\EDnevnikMapiranje.pdb
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\FluentNHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Iesi.Collections.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\NHibernate.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Remotion.Linq.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\FluentNHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Iesi.Collections.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\NHibernate.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Remotion.Linq.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csprojAssemblyReference.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.Properties.Resources.resources
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.GenerateResource.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CoreCompileInputs.cache
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.csproj.CopyComplete
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.dll
+C:\Users\Laza\Desktop\EDnevnikMapiranjeWeb\EDnevnikMapiranje\obj\Debug\EDnevnikMapiranje.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDnevnikMapiranje", "EDnevnikMapiranje\EDnevnikMapiranje.csproj", "{36688564-872F-4066-9170-DB2A222F5BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDnevnikWebApp", "EDnevnikWebApp\EDnevnikWebApp.csproj", "{1CAD4159-2944-43DE-8DF0-F5D56C38C717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36688564-872F-4066-9170-DB2A222F5BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36688564-872F-4066-9170-DB2A222F5BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36688564-872F-4066-9170-DB2A222F5BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36688564-872F-4066-9170-DB2A222F5BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAD4159-2944-43DE-8DF0-F5D56C38C717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAD4159-2944-43DE-8DF0-F5D56C38C717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAD4159-2944-43DE-8DF0-F5D56C38C717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAD4159-2944-43DE-8DF0-F5D56C38C717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D88F46C3-D578-4D8B-90A0-FA8EEA4CC5A7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,85 @@
+NijeUcenik:
+Dodavanje NijeUcenik
+{
+			
+			
+
+        "JMBG":961473555,
+        "Ime":"qqqqqq",
+        "Prezime":"qqqqqq", 
+	"KorisnickoIme":"qqqq323",
+	"Pol":"M",
+	"Lozinka":"qqqqqq323",
+	"Email":"qqqqqq323", 
+	"BrojTelefona":"23432144",
+	"DatumRodjenja":"12.04.1999",
+	
+	
+        "AdministratorFlag": "Ne",
+        "NastavnigFlag": "Ne",
+        "RoditeljFlag": "Da",
+    	"RazredniFlag":"Ne",
+	"PredmetniNastavnikFlag":"Ne",
+        "StepenStrucneSpreme":"visoka",
+	"USavetuFlag":"Ne",
+	"DatumOdSavet":"10.05.2005",
+	"DatumDoSavet":"08.08.2006"
+}
+Azuriranje NijeUcenik:
+{
+        "Ime":"qqqqqq",
+        "Prezime":"qqqqqq", 
+        "AdministratorFlag": "Ne",
+        "NastavnigFlag": "Ne",
+        "RoditeljFlag": "Da",
+}
+
+
+------------------------------------------------------------
+
+
+Funkcija:
+Dodavanj funkcije
+{
+			
+			
+
+        "TipFunkcije":"bbbbeyveye"
+
+}
+
+
+------------------------------------------------------------
+
+
+Ucenik:
+Dodavanje Ucenika
+{
+   "JMBG":5533774466,
+   "Ime":"jasamajaja",
+   "Prezime":"jasmajaja", 
+   "KorisnickoIme":"guru123",
+   "Pol":"M",
+   "Lozinka":"guru123",
+   "Email":"guru123", 
+   "BrojTelefona":123385,
+   "BrOpravdanih" : 10, 
+   "BrNeopravdanih":2, 
+   "OcenaVladanje":5
+}
+
+Azuriranje Ucenika
+{
+   "Ime":"bla",
+   "Prezime":"blaaaa", 
+   "OcenaVladanje":4
+}
+
+
+---------------------------------------------------------
+
+
+
+
+
+
